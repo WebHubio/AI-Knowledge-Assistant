@@ -26,6 +26,7 @@ The proposed solution uses the **Qwen** AI model to understand company documenta
 
 * HTML5
 * CSS3
+* JavaScript
 
 ---
 
